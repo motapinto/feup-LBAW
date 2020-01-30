@@ -6,6 +6,7 @@
 >
 > **Project developed by:**\
 > Martim Silva ([motapinto](https://github.com/motapinto))
+> Luís Ramos ([luispvramos](https://github.com/luispvramos))
 >
 > **Any problems?**\
 > Start an Issue please.
