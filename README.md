@@ -1,6 +1,6 @@
 # LBAW
 
-> **2018/2019** - 3rd Year, 2st Semester
+> **2019/2020** - 3rd Year, 2st Semester
 >
 > **Course:** Laboratório de Bases de Dados e Aplicações Web: [LBAW page in sigarra](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436452) | Database and Web Applications Laboratory
 >
