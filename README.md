@@ -6,7 +6,8 @@
 >
 > **Project developed by:**\
 > Martim Silva ([motapinto](https://github.com/motapinto))\
-> Luís Ramos ([luispvramos](https://github.com/luispvramos))
+> Luís Ramos ([luispvramos](https://github.com/luispvramos))\
+> José Guerra ([LockDownPT](https://github.com/LockDownPT))
 >
 > **Any problems?**\
 > Start an Issue please.
