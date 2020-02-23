@@ -5,9 +5,10 @@
 > **Course:** Laboratório de Bases de Dados e Aplicações Web: [LBAW page in sigarra](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436452) | Database and Web Applications Laboratory
 >
 > **Project developed by:**\
-> Martim Silva ([motapinto](https://github.com/motapinto))\
-> Luís Ramos ([luispvramos](https://github.com/luispvramos))\
-> José Guerra ([LockDownPT](https://github.com/LockDownPT))
+> José Guerra ([LockDownPT](https://github.com/LockDownPT)) \
+> Luís Ramos ([luispvramos](https://github.com/luispvramos)) \
+> Martim Silva ([motapinto](https://github.com/motapinto)) \
+> Ruben Almeida ([arubenruben](https://github.com/arubenruben))
 >
 > **Any problems?**\
 > Start an Issue please.
