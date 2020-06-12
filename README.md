@@ -4,26 +4,27 @@
 
 ### Homepage
 <p align="center">
-  <img src="img/homepage.PNG"/>
+  <img src="img/homepage.png"/>
 </p>
 
 ### Product's listings
 <p align="center">
-  <img src="img/products.PNG"/>
+  <img src="img/products.png"/>
 </p>
 
 ### Product Page
 <p align="center">
-  <img src="img/product.PNG/>
+  <img src="img/product.png/>
 </p>
 
 ### Profile
 <p align="center">
-  <img src="img/profile.PNG"/>
+  <img src="img/profile.png"/>
 </p>
+
 ### Cart
 <p align="center">
-  <img src="img/cart.PNG"/>
+  <img src="img/cart.png"/>
 </p>
 
 ## Development
