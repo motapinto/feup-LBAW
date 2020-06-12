@@ -16,7 +16,8 @@ Keyshare is divided into two major parts:
 * User side - Where we can buy, sell, review and report videogame keys
 * Admin side - Where all information on the website can be updated / deleted but also insert new information
 
-Keyshare was develped using Laravel framework using Bootstrap 4 as front-end design library and a Postgres Database architecture using PGAdmin as GUI interface with the database.
+Keyshare was develped using Laravel framework using Bootstrap 4 as front-end design library and a Postgres Database architecture using PGAdmin as GUI interface with the database. \
+**Note** - To get more info check the [wiki](https://github.com/motapinto/feup-LBAW/wiki)
 
 ## Iterations
 
