@@ -7,8 +7,6 @@ Keyshare was developed as part of the LBAW course by MIEIC FEUP students :
 * Martim Silva, up201705205@fe.up.pt
 * Ruben Almeida, up201704618@fe.up.pt
 
-The project was finished 03/06/2020
-
 ## Project Description
 
 Keyshare is an online global marketplace which specializes in the sale of gaming related digital products using redemption keys.
@@ -28,11 +26,7 @@ This project is divided in 10 small iterations. The major checkpoints of the cou
 * Final Product
 
 ## Installation
-
-The source code can be found in the group gitlab repository on: https://git.fe.up.pt/lbaw/lbaw1920/lbaw2043
-
 The development was supported by docker technologies. You can run the project docker image with the following commands:
-
 ```
 docker run -it -p 8000:80 -e DB_DATABASE="lbaw2043" -e DB_USERNAME="lbaw2043" -e DB_PASSWORD="AS810664" lbaw2043/lbaw2043
 ```
@@ -42,23 +36,15 @@ docker run -it -p 8000:80 -e DB_DATABASE="lbaw2043" -e DB_USERNAME="lbaw2043" -e
 ### User
 
 In order to access Keyshare full functionalities, you need to be logged in you can register yourself or use the following credentials:
-
-> URL to the product: http://lbaw2043.lbaw-prod.fe.up.pt
-
 | Type          | Username         | Password       |
 | ------------- | ---------------- | -------------- |
 | basic account | ssn              | SergioNunes123 |
-| banned user   | trustlessuser123 | 123456789      |
+| banned user   | motapinto        | 123456789      |
 
 ### Administration
 
-> Administration URL: http://lbaw2043.lbaw-prod.fe.up.pt/admin
+> Administration URL: /admin
 
 | Username | Password       |
 | -------- | -------------- |
 | ssn      | SergioNunes123 |
-
-***
-LBAW 2019/2020
-
-
