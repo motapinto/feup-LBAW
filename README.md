@@ -36,14 +36,9 @@
 * Paypal API
 
 ## How to Run
-### Install dependencies and compile assets
+### Upload and run docker container
 ```
-./gradlew build
-```
-
-### Run
-```
-./gradlew run
+docker run -it -p 8000:80 -e DB_DATABASE="lbaw2043" -e DB_USERNAME="lbaw2043" -e DB_PASSWORD="AS810664" lbaw2043/lbaw2043
 ```
 
 **Disclaimer** - This repository was created for educational purposes and we do not take any responsibility for anything related to its content. You are free to use any code or algorithm you find, but do so at your own risk.
