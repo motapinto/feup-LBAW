@@ -1,16 +1,64 @@
-# LBAW
+# Keyshare
 
-> **2019/2020** - 3rd Year, 2st Semester
->
-> **Course:** Laboratório de Bases de Dados e Aplicações Web: [LBAW page in sigarra](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436452) | Database and Web Applications Laboratory
->
-> **Project developed by:**\
-> José Guerra ([LockDownPT](https://github.com/LockDownPT)) \
-> Luís Ramos ([luispvramos](https://github.com/luispvramos)) \
-> Martim Silva ([motapinto](https://github.com/motapinto)) \
-> Ruben Almeida ([arubenruben](https://github.com/arubenruben))
->
-> **Any problems?**\
-> Start an Issue please.
+Keyshare was developed as part of the LBAW course by MIEIC FEUP students :
 
-**Disclaimer** - This repository was created for educational purposes and we do not take any responsibility for anything related to its content. You are free to use any code or algorithm you find, but do so at your own risk.
+* Luís Ramos, up201706253@fe.up.pt
+* José Guerra, up201706421@fe.up.pt
+* Martim Silva, up201705205@fe.up.pt
+* Ruben Almeida, up201704618@fe.up.pt
+
+The project was finished 03/06/2020
+
+## Project Description
+
+Keyshare is an online global marketplace which specializes in the sale of gaming related digital products using redemption keys.
+
+Keyshare is divided into two major parts:
+
+* User side - Where we can buy, sell, review and report videogame keys
+* Admin side - Where all information on the website can be updated / deleted but also insert new information
+
+Keyshare was develped using Laravel framework using Bootstrap 4 as front-end design library and a Postgres Database architecture using PGAdmin as GUI interface with the database.
+
+## Iterations
+
+This project is divided in 10 small iterations. The major checkpoints of the course were:
+* Design Prototype
+* Vertical Prototype
+* Final Product
+
+## Installation
+
+The source code can be found in the group gitlab repository on: https://git.fe.up.pt/lbaw/lbaw1920/lbaw2043
+
+The development was supported by docker technologies. You can run the project docker image with the following commands:
+
+```
+docker run -it -p 8000:80 -e DB_DATABASE="lbaw2043" -e DB_USERNAME="lbaw2043" -e DB_PASSWORD="AS810664" lbaw2043/lbaw2043
+```
+
+## Credentials
+
+### User
+
+In order to access Keyshare full functionalities, you need to be logged in you can register yourself or use the following credentials:
+
+> URL to the product: http://lbaw2043.lbaw-prod.fe.up.pt
+
+| Type          | Username         | Password       |
+| ------------- | ---------------- | -------------- |
+| basic account | ssn              | SergioNunes123 |
+| banned user   | trustlessuser123 | 123456789      |
+
+### Administration
+
+> Administration URL: http://lbaw2043.lbaw-prod.fe.up.pt/admin
+
+| Username | Password       |
+| -------- | -------------- |
+| ssn      | SergioNunes123 |
+
+***
+LBAW 2019/2020
+
+
