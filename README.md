@@ -32,8 +32,10 @@
 
 ### Technologies 
 * Laravel
+* Bootstrap
 * Socialite
-* Paypal API
+* Paypal SandBox
+* Docker
 
 ## How to Run
 ### Upload and run docker container
